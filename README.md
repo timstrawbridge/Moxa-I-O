@@ -28,7 +28,7 @@ https://www.moxa.com/getmedia/d23ee0e8-e999-4d75-b50e-305181294943/moxa-iologik-
 Please refer to the documentation for help on how to call specific commands
 
 ## Interface Java Doc
-https://swdevteam.com/moxa/javadoc/javadoc.html
+https://swdevteam.com/moxa/javadoc/index.html
 
 ## Installation
 Place this file in your /src/project/package directory to get started. Once it is placed it is rather simple to use.
